@@ -2,6 +2,11 @@ var express = require('express');
 var path = require('path');
 var open = require('open');
 
+//from Babel
+// import express from 'express';
+// import path from 'path';
+// import open from 'open';
+
 var port = 3000;
 var app = express();
 
